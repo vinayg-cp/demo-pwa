@@ -1,0 +1,20 @@
+{
+  "generator-ngx-rocket": {
+    "version": "5.1.0",
+    "props": {
+      "location": "path",
+      "appName": "demoPWA",
+      "target": [
+        "web"
+      ],
+      "pwa": true,
+      "ui": "bootstrap",
+      "auth": false,
+      "lazy": false,
+      "angulartics": false,
+      "projectName": "demo-pwa",
+      "packageManager": "npm",
+      "mobile": []
+    }
+  }
+}
